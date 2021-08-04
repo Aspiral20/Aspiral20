@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me palanciucvictor20@gmail.com
+- 📫 How to reach me: palanciucvictor20@gmail.com
 
 <!---
 Aspiral20/Aspiral20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
