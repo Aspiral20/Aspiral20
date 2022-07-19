@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aspiral20
-- 👀 I’m interested in C/C++, JS
-- 🌱 I’m currently learning frontend
+- 👀 I’m interested JavaScript, React, Front/Back-end
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: palanciucvictor20@gmail.com
 
