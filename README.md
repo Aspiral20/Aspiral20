@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aspiral20
 - 👀 I’m interested JavaScript, React, Front/Back-end
-- 🌱 I’m currently learning Mongodb, JWT, Canvas.
+- 🌱 I’m currently K8s, Next.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: palanciucvictor20@gmail.com
 
