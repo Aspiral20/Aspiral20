@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: palanciucvictor20@gmail.com
 
-![Aspiral's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspiral20&show_icons=true&theme=radical)
+![Aspiral's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspiral20&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiral20&langs_count=20&show_icons=true&theme=radical)
 
