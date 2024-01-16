@@ -6,7 +6,7 @@
 
 ![Aspiral's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspiral20&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiral20&langs_count=20&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiral20&langs_count=20&show_icons=true&theme=radical)
 
 <!---
 Aspiral20/Aspiral20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
