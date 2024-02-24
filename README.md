@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Aspiral20
 - 👀 I’m interested JavaScript, React, React-Native, Next js, Nest js, Docker, K8s, Webpack
-- 📫 How to reach me: [Aspiral20 Portfolio](https://portfolio.aspiral.work){:target="_blank"}
+- 📫 How to reach me: [Aspiral20 Portfolio](https://portfolio.aspiral.work)
 
 <!---- 
 - 🌱 I’m currently K8s, Next.
