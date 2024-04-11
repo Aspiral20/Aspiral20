@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Aspiral20
 - 👀 I’m interested JavaScript, React, React-Native, Next js, Nest js, Docker, K8s, Webpack
-- 🌱 I’m currently Redis, Kafka, MinIO.
+- 🌱 I’m currently Redis, Kafka, MinIO, ElasticSearch.
 - 📫 How to reach me: [Aspiral20 Portfolio](https://portfolio.aspiral.work/en)
 
 <!---- 
