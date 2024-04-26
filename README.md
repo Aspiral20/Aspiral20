@@ -1,8 +1,8 @@
 ## About Me
 
 - 👋 Hi, I’m @Aspiral20
-- 👀 I’m interested JavaScript, React, React-Native, Next js, Nest js, Docker, K8s, Webpack, MinIO, ElasticSearch + Kibana, Prometheus + Grafana
-- 🌱 I’m currently learning Redis, Kafka, Podman.
+- 👀 I’m interested JavaScript, React, React-Native, Next js, Nest js, Docker, Webpack, MinIO, ElasticSearch + Kibana, Prometheus + Grafana.
+- 🌱 I’m currently learning Redis, Kafka, Podman, K8s.
 - 📫 How to reach me: [Aspiral20 Portfolio](https://portfolio.aspiral.work/en)
 
 <!---- 
