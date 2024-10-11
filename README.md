@@ -16,7 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiral20&langs_count=20&show_icons=true&theme=radical)
 
-## Wakatime Stats:
+## Wakatime Stats: (start from 13.01.2024)
 
 [![Aspiral's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aspiral20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
