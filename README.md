@@ -4,7 +4,7 @@
 - 👀 I’m interested Flutter, Dart, ElasticSearch + Kibana, Prometheus + Grafana.
 -    Strong skills in: JavaScript, TypeScript, React, React-Native, NextJs, NestJs, MinIO, Strapi, Web Parsing/Scraping, Redis, Telegraf, Docker
 - 🌱 I’m currently learning Kafka, Podman, K8s, Terraform.
-- 📫 How to reach me: [Aspiral20 Portfolio](https://portfolio.aspiral.work/en)
+- 📫 How to reach me: [Aspiral20 Portfolio - Contacts](https://portfolio.aspiral.work/en/contacts)
 
 <!---- 
 - 🌱 I’m currently K8s, Next.
