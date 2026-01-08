@@ -1,7 +1,7 @@
 ## About Me
 
 - 👋 Hi, I’m Victor / @Aspiral20
-- 👀 I’m interested Flutter, Dart, ElasticSearch + Kibana, Prometheus + Grafana.
+- 👀 I’m interested in: Flutter, Dart, ElasticSearch + Kibana, Prometheus + Grafana.
 -    Strong skills in: JavaScript, TypeScript, React, NextJs, NestJs, MinIO, Strapi, Web Parsing/Scraping, Redis, Telegraf, Docker, Proxmox (& API).
 - 🌱 I’m currently learning Kafka, K8s, Terraform, Tailwind, Flutter.
 - 📫 How to reach me: [Aspiral20 Portfolio - Contacts](https://portfolio.aspiral.work/en/contacts)
